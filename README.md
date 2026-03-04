@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>💰 Flutter Expense Tracker</h1>
+  <h1>Flutter Expense Tracker</h1>
   
   <p>
     <strong>A clean, modern expense tracking mobile app built with Flutter</strong><br/>
