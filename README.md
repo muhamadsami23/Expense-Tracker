@@ -33,5 +33,5 @@ Here are some glimpses of the app:
   <img src="screenshots/darkmode.png" width="24%" alt="Home Dark"/>
   <img src="screenshots/adding.png" width="24%" alt="Add Expense"/>
   <img src="screenshots/deletion.png" width="24%" alt="Delete Expense"/>
-  <img src="screenshots/landscape.png" width="24%" alt="Landscape View"/>
+  <img src="screenshots/landscape.png" width="48%" alt="Landscape View"/>
 </p>
